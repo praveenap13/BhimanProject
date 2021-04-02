@@ -1,0 +1,6 @@
+2021-Feb-25 20:43:30,236 [main] com.bhiman.setup.SeleniumBase 
+ INFO  Launching chrome browser...
+2021-Feb-25 20:43:58,250 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-25 20:43:58,253 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php

@@ -1,0 +1,6 @@
+2021-Feb-25 20:39:13,491 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-25 20:39:13,545 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-25 20:39:21,606 [main] com.bhiman.pages.LoginPageTest 
+ INFO  searching mobile number

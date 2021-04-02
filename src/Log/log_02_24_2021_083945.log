@@ -1,0 +1,4 @@
+2021-Feb-24 08:39:45,305 [main] com.bhiman.pages.LoginPageTest 
+ INFO  searching mobile number
+2021-Feb-24 08:39:45,433 [main] com.bhiman.keywords.UIKeywords 
+ INFO  Entering text in element 9876543210

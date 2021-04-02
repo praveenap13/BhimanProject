@@ -1,0 +1,8 @@
+2021-Feb-27 02:22:02,070 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-27 02:22:02,157 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-27 02:22:09,707 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button
+2021-Feb-27 02:22:56,417 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...

@@ -1,0 +1,10 @@
+2021-Feb-25 20:42:03,759 [main] com.bhiman.setup.SeleniumBase 
+ INFO  Launching chrome browser...
+2021-Feb-25 20:42:18,923 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-25 20:42:18,926 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-25 20:42:24,021 [main] com.bhiman.pages.LoginPageTest 
+ INFO  searching mobile number
+2021-Feb-25 20:42:26,476 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button

@@ -1,0 +1,10 @@
+2021-Mar-15 17:37:08,017 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Mar-15 17:37:22,750 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Mar-15 17:37:22,752 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Mar-15 17:37:27,024 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button
+2021-Mar-15 17:37:28,238 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...

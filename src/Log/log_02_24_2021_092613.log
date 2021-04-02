@@ -1,0 +1,8 @@
+2021-Feb-24 09:26:08,508 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-24 09:26:08,511 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-24 09:26:13,846 [main] com.bhiman.pages.LoginPageTest 
+ INFO  searching mobile number
+2021-Feb-24 09:26:13,894 [main] com.bhiman.keywords.UIKeywords 
+ INFO  Entering text in element 9876543210

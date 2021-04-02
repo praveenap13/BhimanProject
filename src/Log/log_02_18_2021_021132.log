@@ -1,0 +1,6 @@
+2021-Feb-18 02:11:22,755 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-18 02:11:28,670 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-18 02:11:32,799 [main] com.bhiman.util.SeleniumBase 
+ INFO  Closed all browser window...

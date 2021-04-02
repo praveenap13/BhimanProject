@@ -1,0 +1,4 @@
+2021-Apr-02 18:19:02,790 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button
+2021-Apr-02 18:19:04,218 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...

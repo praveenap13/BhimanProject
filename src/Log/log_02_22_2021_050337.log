@@ -1,0 +1,12 @@
+2021-Feb-22 05:03:04,712 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-22 05:03:16,960 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button
+2021-Feb-22 05:03:19,056 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-22 05:03:25,373 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-22 05:03:31,490 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-22 05:03:37,265 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php

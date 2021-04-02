@@ -1,0 +1,14 @@
+2021-Feb-25 21:53:01,409 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-25 21:53:07,538 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...null
+2021-Feb-25 21:53:09,560 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...
+2021-Feb-25 21:53:09,579 [main] com.bhiman.keywords.UIKeywords 
+ INFO  opening chorme browser
+2021-Feb-25 21:53:12,645 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-25 21:53:23,029 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...null
+2021-Feb-25 21:53:24,460 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...

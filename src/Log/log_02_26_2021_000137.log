@@ -1,0 +1,16 @@
+2021-Feb-26 00:01:12,537 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-26 00:01:19,599 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-26 00:01:19,601 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-26 00:01:26,869 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...
+2021-Feb-26 00:01:26,904 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-26 00:01:30,616 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-26 00:01:30,619 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-26 00:01:37,579 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...

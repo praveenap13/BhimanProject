@@ -1,0 +1,6 @@
+2021-Feb-24 00:31:04,703 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...null
+2021-Feb-24 00:31:06,735 [main] com.bhiman.util.SeleniumBase 
+ INFO  Closed all browser window...
+2021-Feb-24 00:31:06,773 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...

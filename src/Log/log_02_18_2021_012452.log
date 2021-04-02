@@ -1,0 +1,20 @@
+2021-Feb-18 01:24:19,482 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-18 01:24:26,312 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-18 01:24:33,583 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button
+2021-Feb-18 01:24:35,312 [main] com.bhiman.util.SeleniumBase 
+ INFO  Closed all browser window...
+2021-Feb-18 01:24:35,333 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-18 01:24:38,809 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-18 01:24:43,645 [main] com.bhiman.util.SeleniumBase 
+ INFO  Closed all browser window...
+2021-Feb-18 01:24:43,657 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-18 01:24:47,468 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...http://103.50.162.196/testing/user-login.php
+2021-Feb-18 01:24:52,163 [main] com.bhiman.util.SeleniumBase 
+ INFO  Closed all browser window...

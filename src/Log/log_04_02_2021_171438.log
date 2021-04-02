@@ -1,0 +1,8 @@
+2021-Apr-02 17:14:25,550 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Apr-02 17:14:32,822 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Apr-02 17:14:32,823 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Apr-02 17:14:38,781 [main] com.bhiman.pages.LoginPage 
+ INFO  Clicked on login button

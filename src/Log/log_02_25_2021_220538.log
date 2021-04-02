@@ -1,0 +1,14 @@
+2021-Feb-25 22:05:38,798 [main] com.bhiman.keywords.UIKeywords 
+ INFO  opening chorme browser
+2021-Feb-25 22:05:47,021 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onbeta environment
+2021-Feb-25 22:05:47,022 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...http://103.50.162.196/testing/user-login.php
+2021-Feb-25 22:05:50,962 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...
+2021-Feb-25 22:05:54,246 [main] com.bhiman.util.Config 
+ INFO  Lauching brawser  ...null
+2021-Feb-25 22:05:55,833 [main] com.bhiman.util.SeleniumBaseTest 
+ INFO  Closed all browser window...
+2021-Feb-25 22:05:55,855 [main] com.bhiman.keywords.UIKeywords 
+ INFO  opening chorme browser

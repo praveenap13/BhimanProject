@@ -1,0 +1,6 @@
+2021-Feb-24 09:16:06,881 [main] com.bhiman.setup.SeleniumBase 
+ INFO  Launching chrome browser...
+2021-Feb-24 09:16:29,267 [main] com.bhiman.util.PropertyUtil 
+ INFO  Executing test onnull environment
+2021-Feb-24 09:16:29,268 [main] com.bhiman.util.PropertyUtil 
+ INFO  Launching url...null
